@@ -1,0 +1,2 @@
+pillow==11.1.0
+PyQRCode==1.2.1

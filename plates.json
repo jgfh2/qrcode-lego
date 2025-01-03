@@ -1,0 +1,146 @@
+[
+    {
+        "id": 3024,
+        "width": 1,
+        "length": 1,
+        "area": 1,
+        "price": 0.04,
+        "ppa": 0.04
+    },
+    {
+        "id": 3023,
+        "width": 1,
+        "length": 2,
+        "area": 2,
+        "price": 0.04,
+        "ppa": 0.02
+    },
+    {
+        "id": 3710,
+        "width": 1,
+        "length": 4,
+        "area": 4,
+        "price": 0.05,
+        "ppa": 0.0125
+    },
+    {
+        "id": 3666,
+        "width": 1,
+        "length": 6,
+        "area": 6,
+        "price": 0.06,
+        "ppa": 0.01
+    },
+    {
+        "id": 3460,
+        "width": 1,
+        "length": 8,
+        "area": 8,
+        "price": 0.11,
+        "ppa": 0.01375
+    },
+    {
+        "id": 4477,
+        "width": 1,
+        "length": 10,
+        "area": 10,
+        "price": 0.11,
+        "ppa": 0.011
+    },
+    {
+        "id": 60479,
+        "width": 1,
+        "length": 12,
+        "area": 12,
+        "price": 0.13,
+        "ppa": 0.010833333333333334
+    },
+    {
+        "id": 3022,
+        "width": 2,
+        "length": 2,
+        "area": 4,
+        "price": 0.03,
+        "ppa": 0.0075
+    },
+    {
+        "id": 3020,
+        "width": 2,
+        "length": 4,
+        "area": 8,
+        "price": 0.05,
+        "ppa": 0.00625
+    },
+    {
+        "id": 3795,
+        "width": 2,
+        "length": 6,
+        "area": 12,
+        "price": 0.07,
+        "ppa": 0.005833333333333334
+    },
+    {
+        "id": 3034,
+        "width": 2,
+        "length": 8,
+        "area": 16,
+        "price": 0.11,
+        "ppa": 0.006875
+    },
+    {
+        "id": 3832,
+        "width": 2,
+        "length": 10,
+        "area": 20,
+        "price": 0.13,
+        "ppa": 0.006500000000000001
+    },
+    {
+        "id": 2445,
+        "width": 2,
+        "length": 12,
+        "area": 24,
+        "price": 0.15,
+        "ppa": 0.0062499999999999995
+    },
+    {
+        "id": 91988,
+        "width": 2,
+        "length": 14,
+        "area": 28,
+        "price": 0.19,
+        "ppa": 0.0067857142857142855
+    },
+    {
+        "id": 4282,
+        "width": 2,
+        "length": 16,
+        "area": 32,
+        "price": 0.22,
+        "ppa": 0.006875
+    },
+    {
+        "id": 3031,
+        "width": 4,
+        "length": 4,
+        "area": 16,
+        "price": 0.09,
+        "ppa": 0.005625
+    },
+    {
+        "id": 3032,
+        "width": 4,
+        "length": 6,
+        "area": 24,
+        "price": 0.19,
+        "ppa": 0.007916666666666667
+    },
+    {
+        "id": 3035,
+        "width": 4,
+        "length": 8,
+        "area": 32,
+        "price": 0.24,
+        "ppa": 0.0075
+    }
+]
